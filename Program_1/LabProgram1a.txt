@@ -1,0 +1,14 @@
+Welcome to the Flexit Gym 
+Enter your name
+Rahul
+Enter the age
+19
+Active member? type (true/false)
+true
+Enter the duration in Months
+12
+Details:
+Name Rahul
+Age 19
+Duration 12
+Fee 600.0
