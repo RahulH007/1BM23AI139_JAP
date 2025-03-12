@@ -1,0 +1,31 @@
+Primitive int: 42
+Boxed Integer: 42
+Unboxed value: 42
+
+Primitive float: 21.5
+Boxed Float: 21.5
+Unboxed: 21.5
+
+Primitive char: r
+Boxed Character: r
+Unboxed: r
+
+Primitive byte: 100
+Boxed Byte: 100
+Unboxed: 100
+
+Primitive short: 32000
+Boxed Short: 32000
+Unboxed: 32000
+
+Primitive long: 9999999999
+Boxed Long: 9999999999
+Unboxed: 9999999999
+
+Primitive double: 99.99
+Boxed Double: 99.99
+Unboxed: 99.99
+
+Primitive boolean: true
+Boxed Boolean: true
+Unboxed: true
