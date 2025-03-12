@@ -30,6 +30,35 @@ public class Program_2{
         System.out.println("Boxed Byte : " + e);
         System.out.println("Unboxed : " + f);
 
+        short s = 32000;
+        Short t = s;  
+        short u = t;  
+        System.out.println("Primitive short: " + s);
+        System.out.println("Boxed Short: " + t);
+        System.out.println("Unboxed: " + u);
+
+        long l = 9999999999L;
+        Long m = l;  
+        long n = m;  
+        System.out.println("Primitive long: " + l);
+        System.out.println("Boxed Long: " + m);
+        System.out.println("Unboxed: " + n);
+
+        double p = 99.99;
+        Double r = p;  
+        double s2 = r; 
+        System.out.println("Primitive double: " + p);
+        System.out.println("Boxed Double: " + r);
+        System.out.println("Unboxed: " + s2);
+
+        boolean bool = true;
+        Boolean boolBoxed = bool;  
+        boolean boolUnboxed = boolBoxed;  
+        System.out.println("Primitive boolean: " + bool);
+        System.out.println("Boxed Boolean: " + boolBoxed);
+        System.out.println("Unboxed: " + boolUnboxed);
+        
+
 
     }
 }
