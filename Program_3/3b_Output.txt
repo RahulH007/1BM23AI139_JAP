@@ -1,0 +1,5 @@
+Capacity of String Buffer Object sb1 :16
+Capacity of buffer object sb221
+Enter a String 
+Hello World
+Reveresed String in uppercaseDLROW OLLEH
