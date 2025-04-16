@@ -1,0 +1,11 @@
+Added :Phone
+Added :Apple
+Added :Notebook
+ ----Product Inventory----
+Name:Phone Price: 699.0 Category:Electronics
+Name:Apple Price: 99.0 Category:Fruit
+Name:Notebook Price: 69.0 Category:Statonary
+Removed :Phone
+ ----Product Inventory----
+Name:Apple Price: 99.0 Category:Fruit
+Name:Notebook Price: 69.0 Category:Statonary
